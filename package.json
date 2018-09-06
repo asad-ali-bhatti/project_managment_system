@@ -1,5 +1,7 @@
 {
   "name": "project_managment_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-on-rails": "11.1.3"
+  }
 }
